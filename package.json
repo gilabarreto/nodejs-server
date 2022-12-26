@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/gilabarreto/nodejs-server/issues"
   },
-  "homepage": "https://github.com/gilabarreto/nodejs-server#readme"
+  "homepage": "https://github.com/gilabarreto/nodejs-server#readme",
+  "dependencies": {
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
 }
