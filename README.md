@@ -1,6 +1,6 @@
 # nodejs-server
 
-Simple NodeJS server.
+Simple Node.js server and some example files for future reference.
 
 ## About Node.js
 
